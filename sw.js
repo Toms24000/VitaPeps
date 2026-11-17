@@ -1,5 +1,5 @@
 // Vitapeps : cache hors-ligne. Change le numéro de version à chaque mise à jour de l'appli.
-const CACHE = "vitapeps-v1";
+const CACHE = "vitapeps-v2";
 const CORE = ["./", "./index.html", "./manifest.webmanifest", "./icons/icon-180.png", "./icons/icon-192.png", "./icons/icon-512.png"];
 
 self.addEventListener("install", e => {
